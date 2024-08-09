@@ -1,1 +1,2 @@
 # Airquality
+In this analysis, we cleaned the airquality dataset by handling missing values, transforming variables, and removing duplicates. We then created various visualizations to explore the dataset, including time series plots, boxplots, histograms, scatter plots, and faceted plots. These visualizations help in understanding the patterns and relationships within the data.
